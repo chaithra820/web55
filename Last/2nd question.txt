@@ -1,0 +1,5 @@
+Web Page
+Step 1: open index.html page and click on registration page and register yourself by providing email, username and password.
+Step 2: Once you are registered right click on page and click on inspect option and then search Applicaton option and click on it. There you will find an option called "LOCAL-STORAGE", the data registered will be stored there.
+Step3 : With registered username and password you can login to the page and it will direct it to the page called MOVIE.
+Step 4: In page Movie you can select the movie name and rate it and even comment your opition on the movie with you have selected. The data is then directed to the localstorage and you can also see a pop message on the screen
